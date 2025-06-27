@@ -38,16 +38,17 @@ This repository provides a Python-based framework for analyzing cryptocurrency m
 
 ```
 .
+.
 ├── src/
 │   ├── get_historical_data.py         # Fetch historical data from Binance
 │   ├── get_treasury_rate.py           # Load U.S. Treasury rate data
-│   └── metrics.py                     # Core CryptoMetrics class
+│   ├── crypto_metrics.py              # Core CryptoMetrics class
+│   ├── simulations.py                 # Trade simulation logic
+│   └── setup_binance.py               # Binance API client setup
 │
-├── notebook/
-│   └── analysis.ipynb                 # Jupyter notebook for simulation & results
-│
-├── simulator.py                       # Trade simulation logic
+├── analysis.ipynb                     # Jupyter notebook for simulation & results
 ├── README.md
+
 ```
 
 ---
