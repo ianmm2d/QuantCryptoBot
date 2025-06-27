@@ -128,7 +128,7 @@ pip install python-binance
 ### 4. Run the Notebook
 
 ```bash
-jupyter notebook notebook/analysis.ipynb
+jupyter notebook analysis.ipynb
 ```
 
 ---
