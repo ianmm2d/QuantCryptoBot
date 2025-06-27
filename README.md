@@ -150,7 +150,6 @@ jupyter notebook notebook/analysis.ipynb
 * Integration with other crypto exchanges
 * Live trading interface
 * Portfolio-level backtesting
-* Dashboard visualization (Plotly / Streamlit)
 
 ---
 
