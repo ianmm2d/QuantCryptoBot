@@ -2,6 +2,8 @@
 
 This repository provides a Python-based framework for analyzing cryptocurrency market data and simulating investment strategies using technical indicators such as **RSI**, **MACD**, **Bollinger Bands**, and **correlation with U.S. Treasury Rates**. The system generates buy/sell signals, allowing users to simulate trading strategies and evaluate performance.
 
+![Strategy Backtest Result](assets/buy_btcusdt.png)
+
 ---
 
 ## 📦 Features
